@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="XPTOWcfService.Service1" CodeBehind="XPTOService.svc.cs" %>

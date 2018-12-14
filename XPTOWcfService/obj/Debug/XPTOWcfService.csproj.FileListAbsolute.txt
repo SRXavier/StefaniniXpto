@@ -1,0 +1,2 @@
+D:\Stefanini\XPTO\XPTOProject\XPTOWcfService\obj\Debug\XPTOWcfService.csprojAssemblyReference.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOWcfService\obj\Debug\XPTOWcfService.csproj.CoreCompileInputs.cache

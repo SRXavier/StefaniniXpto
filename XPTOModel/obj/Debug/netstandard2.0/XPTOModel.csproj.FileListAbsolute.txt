@@ -1,0 +1,8 @@
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\bin\Debug\netstandard2.0\XPTOModel.deps.json
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\bin\Debug\netstandard2.0\XPTOModel.dll
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\bin\Debug\netstandard2.0\XPTOModel.pdb
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\obj\Debug\netstandard2.0\XPTOModel.csproj.CoreCompileInputs.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\obj\Debug\netstandard2.0\XPTOModel.AssemblyInfoInputs.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\obj\Debug\netstandard2.0\XPTOModel.AssemblyInfo.cs
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\obj\Debug\netstandard2.0\XPTOModel.dll
+D:\Stefanini\XPTO\XPTOProject\XPTOModel\obj\Debug\netstandard2.0\XPTOModel.pdb

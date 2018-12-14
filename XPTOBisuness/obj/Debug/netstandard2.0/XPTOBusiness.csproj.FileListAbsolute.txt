@@ -1,0 +1,12 @@
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\bin\Debug\netstandard2.0\XPTOBusiness.deps.json
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\bin\Debug\netstandard2.0\XPTOBusiness.dll
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\bin\Debug\netstandard2.0\XPTOBusiness.pdb
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\bin\Debug\netstandard2.0\XPTOModel.dll
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\bin\Debug\netstandard2.0\XPTOModel.pdb
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.csprojAssemblyReference.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.csproj.CoreCompileInputs.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.AssemblyInfoInputs.cache
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.AssemblyInfo.cs
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.csproj.CopyComplete
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.dll
+D:\Stefanini\XPTO\XPTOProject\XPTOBisuness\obj\Debug\netstandard2.0\XPTOBusiness.pdb
